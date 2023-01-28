@@ -2,26 +2,26 @@
   {
     "name": "Monster 1",
     "hp": 10,
-    "thumb": "./Monstro1.jpg"
+    "thumb": "./Monstro1.svg"
   },
   {
     "name": "Monster 2",
     "hp": 15,
-    "thumb": "./Monstro2.jpg"
+    "thumb": "./Monstro2.svg"
   },
   {
     "name": "Monster 3",
     "hp": 25,
-    "thumb": "./Monstro3.jpg"
+    "thumb": "./Monstro3.svg"
   },
   {
     "name": "Monster 4",
     "hp": 40,
-    "thumb": "./Monstro4.jpg"
+    "thumb": "./Monstro4.svg"
   },
   {
     "name": "Monster 5",
     "hp": 60,
-    "thumb": "./Monstro5.jpg"
+    "thumb": "./Monstro5.svg"
   }
 ]
