@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Monster 1",
+    "hp": 10,
+    "thumb": "./Monstro1.jpg"
+  },
+  {
+    "name": "Monster 2",
+    "hp": 15,
+    "thumb": "./Monstro2.jpg"
+  },
+  {
+    "name": "Monster 3",
+    "hp": 25,
+    "thumb": "./Monstro3.jpg"
+  },
+  {
+    "name": "Monster 4",
+    "hp": 40,
+    "thumb": "./Monstro4.jpg"
+  },
+  {
+    "name": "Monster 5",
+    "hp": 60,
+    "thumb": "./Monstro5.jpg"
+  }
+]
